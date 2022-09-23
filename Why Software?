@@ -1,0 +1,32 @@
+<!--  
+Why Software?
+Create a HTML page and write about your motivations behind becoming a software developer.
+
+Acceptance Criteria
+
+- All content should be inside the tag
+- The heading should be "Why I want to become a developer? " in 'h1' tag
+- The answer should be wrapped in 'p' tag
+-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
+    <div>
+        <h1>Why I want to become a developer?</h1>
+        <p>
+            YOUR REASONS!!
+        </p>
+    </div>
+    
+</body>
+</html>
+
+
